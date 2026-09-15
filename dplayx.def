@@ -1,0 +1,8 @@
+﻿LIBRARY dplayx
+EXPORTS
+    DirectPlayCreate
+    DirectPlayEnumerateA 
+    DirectPlayEnumerateW 
+    DirectPlayLobbyCreateA
+    DirectPlayLobbyCreateW
+    gdwDPlaySPRefCount DATA
